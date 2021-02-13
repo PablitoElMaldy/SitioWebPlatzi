@@ -1,0 +1,9 @@
+
+
+
+git clone --CLONAR UN REPOSITORIO EN GIT
+
+git add . --ANADIR TODOS LOS NUEVAS CARPETAS RECIEN QUE FUERON AGREGADAS A UNA CARPETA
+git commit -m "[NOMBRE DEL CAMBIO]"
+
+git push -u origin  
