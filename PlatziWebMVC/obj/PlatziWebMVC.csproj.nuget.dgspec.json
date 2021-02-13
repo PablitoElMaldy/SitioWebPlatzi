@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\PlatziWebMVC.csproj": {}
+    "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\PlatziWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\PlatziWebMVC.csproj": {
+    "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\PlatziWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\PlatziWebMVC.csproj",
+        "projectUniqueName": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\PlatziWebMVC.csproj",
         "projectName": "PlatziWebMVC",
-        "projectPath": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\PlatziWebMVC.csproj",
+        "projectPath": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\PlatziWebMVC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\obj\\",
+        "outputPath": "C:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\PlatziWebMVC.csproj",
+  "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\PlatziWebMVC.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15603,37 +15603,37 @@
   "RootNamespace": "PlatziWebMVC",
   "Documents": [
     {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\PlatziWebMVC\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Platzi CURSOS Y MAS\\Curso WebApps en Azure\\SitioWebPlatzi\\PlatziWebMVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
